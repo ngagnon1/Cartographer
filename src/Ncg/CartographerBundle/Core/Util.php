@@ -4,8 +4,6 @@ namespace Ncg\CartographerBundle\Core;
 
 use Ncg\CartographerBundle;
 
-use Symfony\Component\ClassLoader;
-
 define( "MEMBER_INIT_VAL", 997111 ); //just random big value
 define( "UNDEFINED_VAL", 997112 );//just random big value
 
