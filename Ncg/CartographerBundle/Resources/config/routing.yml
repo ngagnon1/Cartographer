@@ -1,0 +1,15 @@
+rebuild_db:
+    path:     /util/rebuild_db
+    defaults: { _controller: NcgCartographerBundle:Default:rebuild }
+
+util_menu:
+    path:     /util
+    defaults: { _controller: NcgCartographerBundle:Default:utilMenu }
+
+tfc_homepage:
+    path:     /
+    defaults: { _controller: NcgCartographerBundle:Default:home }
+
+sandbox:
+    path:     /ncg_sandbox
+    defaults: { _controller: NcgCartographerBundle:Default:sandbox }

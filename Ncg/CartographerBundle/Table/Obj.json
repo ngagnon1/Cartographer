@@ -1,0 +1,26 @@
+{
+  "DefaultStringConstructorFields": [
+    { "Field": "Code" },
+    { "Field": "Name" },
+    { "Field": "Title" },
+    { "Field": "UserName" },
+    { "Field": "FullName" },
+    { "Field": "Label" },
+    { "Field": "Key" }
+  ],
+  "DefaultOrderByFields": [
+    { "Field": "OrderBy", "Direction": "ASC" },
+    { "Field": "BackUpTimeStamp", "Direction": "DESC" },
+    { "Field": "DisplayOrder", "Direction": "ASC" },
+    { "Field": "StepOrder", "Direction": "ASC" },
+    { "Field": "Order", "Direction": "ASC" },
+    { "Field": "Label", "Direction": "ASC" },
+    { "Field": "Code", "Direction": "ASC" },
+    { "Field": "Name", "Direction": "ASC" },
+    { "Field": "DateTimeStamp", "Direction": "DESC" }
+  ],
+  "DefaultFieldValues": {
+    "Code": "->getCodeDefaultValue"
+  }
+}
+

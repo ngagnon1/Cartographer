@@ -1,0 +1,31 @@
+{
+  "TableClassDirectories": [
+    "/Cartographer/Table",
+    "/Cartographer/Table"
+  ],
+
+  "DbConnections": {
+    "example": {
+      "Server": "localhost",
+      "DbName": "example",
+      "UName": "example",
+      "Pw": "example",
+      "Prefix": ""
+    }
+  },
+
+  "FieldKeys": {
+    "example": {
+      "Password": {
+        "Pw": "^8MXv[<%ggwb$BN-3aB6"
+      }
+    }
+  },
+
+  "Secrets": {
+    "EncodeIds": "",
+    "EncodeKey1": "NkYL*V4cd^_8cf\"",
+    "EncodeKey2": ".ZM=yd`dzn7Vr\"m"
+  }
+
+}
