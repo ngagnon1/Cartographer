@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ncg\\CartographerBundle": "src/Ncg/CartographerBundle"
+            "Ncg\\CartographerBundle\\": "src/Ncg/CartographerBundle"
         }
     },
     "scripts": {}
