@@ -1,0 +1,20 @@
+{
+    "name": "ncg/cartographer",
+    "description": "Cartographer ORM",
+    "keywords": ["orm"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ncg\\CartographerBundle": "src/Ncg/CartographerBundle"
+        }
+    },
+    "scripts": {}
+}
+
